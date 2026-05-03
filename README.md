@@ -1,4 +1,4 @@
-# Online_orders_dataops_project# Online Orders DataOps Project
+# Online Orders DataOps Project
 
 ## Project Overview
 
