@@ -1,0 +1,101 @@
+order_id,customer_name,country,product_category,order_date,quantity,unit_price_sek,payment_status,delivery_status
+O001,anna lind,sweden,electronics,2024-01-15,2,199,paid,delivered
+O002,ERIK SVENSSON,SWEDEN,ELECTRONICS,2024-02-15,ONE,499,PAID,DELIVERED
+O003,Sofia  Costa,SE,Elec,2023.03.10,1,"1,299",paid,delivered
+O004,leo martin,finland,clothing,2024-04-20,3,99,Unpaid,Shipped
+O005,Emma Dubois,FI,Clothing,2025/05/05,5,249 SEK,UNPAID,SHIPPED
+O006,Mikael  Andersson,Portugal,CLOTHING,2023-06-18,2,799,unpaid,shipped
+O007,ines ferreira,PORTUGAL,home,2024-07-22,4,129,Pending,Processing
+O008,JOHAN BERG,france,HOME,2025-08-30,ten,2 499,PENDING,PROCESSING
+O009,Clara Müller,FRANCE,Home & Kitchen,2023/09/12,1,349,pending,processing
+O010,Noah Wilson,US,beauty,2024.10.01,6,89,Failed,Delayed
+O011,Amina Hassan,usa,BEAUTY,2023-01-10,2,199,FAILED,DELAYED
+O012,Lucas Moreau,United States,sports,2023-01-25,1,299,Payment Failed,In Transit
+O013,Sara Nilsson,Switzerland,SPORTS,2023-02-14,3,499,Paid,in transit
+O014,Daniel Virtanen,switzerland,books,2023-02-28,4,699,Unpaid,IN TRANSIT
+O015,Maria Rossi,Sweden,Books,2023-03-12,2,899,Pending,Returned
+O016,Oliver Smith,Finland,toys,2023-03-27,5,1299,Failed,RETURNED
+O017,Elin Karlsson,Portugal,TOYS,2023-04-09,1,1599,Paid,Cancelled
+O018,Hugo Laurent,France,Electronics,2023-04-24,6,79,Unpaid,CANCELLED
+O019,Nina Weber,Switzerland,Clothing,2023-05-11,3,149,Pending,canceled
+O020,Tom Johnson,United States,Home & Kitchen,2023-05-29,2,249,Failed,Delivered
+O021,Lina Andersson,Sweden,Beauty,2023-06-13,4,399,Paid,Shipped
+O022,Axel Bergström,Finland,Sports,2023-06-30,1,599,Unpaid,Processing
+O023,Maja Eriksson,Portugal,Books,2023-07-15,2,799,Pending,Delayed
+O024,Oskar Nilsson,France,Toys,2023-07-31,5,999,Failed,In Transit
+O025,Ella Karlsson,Switzerland,Electronics,2023-08-16,3,1199,Paid,Returned
+O026,William Johansson,United States,Clothing,2023-08-28,1,1499,Unpaid,Cancelled
+O027,Alma Larsson,Sweden,Home & Kitchen,2023-09-09,4,1999,Pending,Delivered
+O028,Viktor Persson,Finland,Beauty,2023-09-26,2,59,Failed,Shipped
+O029,Nora Lindgren,Portugal,Sports,2023-10-13,6,99,Paid,Processing
+O030,Elias Holm,France,Books,2023-10-30,1,159,Unpaid,Delayed
+O031,Freja Sandberg,Switzerland,Toys,2023-11-15,3,229,Pending,In Transit
+O032,Isak Gustafsson,United States,Electronics,2023-11-29,5,349,Failed,Returned
+O033,Alice Lund,Sweden,Clothing,2023-12-08,2,449,Paid,Cancelled
+O034,Theo Andersson,Finland,Home & Kitchen,2023-12-22,4,549,Unpaid,Delivered
+O035,Ida Berg,Portugal,Beauty,2024-01-08,1,649,Pending,Shipped
+O036,Filip Karlsson,France,Sports,2024-01-24,2,749,Failed,Processing
+O037,Julia Svensson,Switzerland,Books,2024-02-09,3,849,Paid,Delayed
+O038,Max Lindholm,United States,Toys,2024-02-21,6,949,Unpaid,In Transit
+O039,Ebba Persson,Sweden,Electronics,2024-03-06,5,1049,Pending,Returned
+O040,Adam Nilsson,Finland,Clothing,2024-03-19,1,1149,Failed,Cancelled
+O041,Clara Bergman,Portugal,Home & Kitchen,2024-04-03,4,1249,Paid,Delivered
+O042,Hugo Lind,France,Beauty,2024-04-17,2,1349,Unpaid,Shipped
+O043,Lea Johansson,Switzerland,Sports,2024-05-02,3,1449,Pending,Processing
+O044,Noel Eriksson,United States,Books,2024-05-16,1,1549,Failed,Delayed
+O045,Signe Larsson,Sweden,Toys,2024-06-01,5,1649,Paid,In Transit
+O046,Liam Svensson,Finland,Electronics,2024-06-18,6,1749,Unpaid,Returned
+O047,Mila Karlsson,Portugal,Clothing,2024-07-04,2,1849,Pending,Cancelled
+O048,Elliot Berg,France,Home & Kitchen,2024-07-19,4,1949,Failed,Delivered
+O049,Astrid Holm,Switzerland,Beauty,2024-08-05,1,2049,Paid,Shipped
+O050,Melvin Persson,United States,Sports,2024-08-21,3,2149,Unpaid,Processing
+O051,Olivia Wilson,Sweden,Books,2024-09-03,2,2249,Pending,Delayed
+O052,James Brown,Finland,Toys,2024-09-18,5,2349,Failed,In Transit
+O053,Emily Davis,Portugal,Electronics,2024-10-04,4,2449,Paid,Returned
+O054,Daniel Miller,France,Clothing,2024-10-20,1,2549,Unpaid,Cancelled
+O055,Sophia Taylor,Switzerland,Home & Kitchen,2024-11-05,6,2649,Pending,Delivered
+O056,Benjamin Anderson,United States,Beauty,2024-11-22,3,2749,Failed,Shipped
+O057,Charlotte Thomas,Sweden,Sports,2024-12-06,2,2849,Paid,Processing
+O058,Henry Moore,Finland,Books,2024-12-19,4,2949,Unpaid,Delayed
+O059,Amelia Martin,Portugal,Toys,2025-01-07,5,3049,Pending,In Transit
+O060,Jack Thompson,France,Electronics,2025-01-23,1,3149,Failed,Returned
+O061,Isabella White,Switzerland,Clothing,2025-02-08,2,3249,Paid,Cancelled
+O062,Lucas Harris,United States,Home & Kitchen,2025-02-24,3,3349,Unpaid,Delivered
+O063,Mia Clark,Sweden,Beauty,2025-03-11,6,3449,Pending,Shipped
+O064,Alexander Lewis,Finland,Sports,2025-03-27,4,3549,Failed,Processing
+O065,Grace Walker,Portugal,Books,2025-04-10,1,3649,Paid,Delayed
+O066,Leo Hall,France,Toys,2025-04-25,5,3749,Unpaid,In Transit
+O067,Chloe Young,Switzerland,Electronics,2025-05-09,2,3849,Pending,Returned
+O068,Oscar King,United States,Clothing,2025-05-26,3,3949,Failed,Cancelled
+O069,Lily Wright,Sweden,Home & Kitchen,2025-06-12,4,4049,Paid,Delivered
+O070,Finn Scott,Finland,Beauty,2025-06-30,1,4149,Unpaid,Shipped
+O071,Ava Green,Portugal,Sports,2025-07-14,6,4249,Pending,Processing
+O072,Arthur Baker,France,Books,2025-07-29,2,4349,Failed,Delayed
+O073,Ella Adams,Switzerland,Toys,2025-08-13,5,4449,Paid,In Transit
+O074,Noah Nelson,United States,Electronics,2025-08-28,3,4549,Unpaid,Returned
+O075,Emma Carter,Sweden,Clothing,2025-09-10,1,4649,Pending,Cancelled
+O076,Liam Mitchell,Finland,Home & Kitchen,2025-09-26,4,4749,Failed,Delivered
+O077,Sofia Roberts,Portugal,Beauty,2025-10-08,2,4849,Paid,Shipped
+O078,Oliver Turner,France,Sports,2025-10-23,6,4949,Unpaid,Processing
+O079,Maya Phillips,Switzerland,Books,2025-11-06,5,5049,Pending,Delayed
+O080,Ethan Campbell,United States,Toys,2025-11-21,1,5149,Failed,In Transit
+O081,Zoe Parker,Sweden,Electronics,2025-12-05,3,5249,Paid,Returned
+O082,Hannah Evans,Finland,Clothing,2025-12-18,2,5349,Unpaid,Cancelled
+O083,Samuel Edwards,Portugal,Home & Kitchen,2023-01-18,4,5449,Pending,Delivered
+O084,Victoria Collins,France,Beauty,2023-02-05,1,5549,Failed,Shipped
+O085,David Stewart,Switzerland,Sports,2023-03-21,5,5649,Paid,Processing
+O086,Laura Morris,United States,Books,2023-04-14,6,5749,Unpaid,Delayed
+O087,Gabriel Rogers,Sweden,Toys,2023-05-24,2,5849,Pending,In Transit
+O088,Natalie Reed,Finland,Electronics,2023-06-07,3,5949,Failed,Returned
+O089,Thomas Cook,Portugal,Clothing,2023-07-11,4,6049,Paid,Cancelled
+O090,Sophie Morgan,France,Home & Kitchen,2023-08-02,1,6149,Unpaid,Delivered
+O091,Mateo Silva,Switzerland,Beauty,2023-09-19,2,6249,Pending,Shipped
+O092,Ines Santos,United States,Sports,2023-10-07,5,6349,Failed,Processing
+O093,João Ferreira,Sweden,Books,2023-11-03,3,6449,Paid,Delayed
+O094,Beatriz Costa,Finland,Toys,2023-12-13,6,6549,Unpaid,In Transit
+O095,Tiago Pereira,Portugal,Electronics,2024-01-31,4,6649,Pending,Returned
+O096,Camila Almeida,France,Clothing,2024-02-27,1,6749,Failed,Cancelled
+O097,Rafael Oliveira,Switzerland,Home & Kitchen,2024-03-25,2,6849,Paid,Delivered
+O098,Lucia Moretti,United States,Beauty,2024-04-29,3,6949,Unpaid,Shipped
+O099,Marco Bianchi,Sweden,Sports,2024-05-31,5,7049,Pending,Processing
+O100,Elena Rossi,Switzerland,Books,2024-06-24,4,7149,Failed,Delayed
