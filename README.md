@@ -17,8 +17,6 @@ The purpose of this project is to simulate a simple DataOps workflow:
 5. Analyze the data using Excel dashboards and SQL
 6. Document the dataset and workflow clearly
 
-This project was created as interview preparation for a DataOps Specialist internship role.
-
 ---
 
 ## Tools Used
